@@ -18,7 +18,7 @@ pip install -r requirements.txt
 python poc.py <screen_name> <keyword>
 ```
 
-After completion a file <screen_name>_<keyword>.txt with the results is created.
+After completion a file <screen_name> _ <keyword> .txt with the results is created.
 
 ## Contact
 Follow me on [Twitter](https://twitter.com/fs0c131y)! You can also find a small part of my work at [https://fs0c131y.com](https://fs0c131y.com)
